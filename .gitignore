@@ -1,0 +1,6 @@
+build/
+.xmake/
+.vscode/
+.config
+.token
+.DS_Store
