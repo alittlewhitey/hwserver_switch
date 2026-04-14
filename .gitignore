@@ -4,3 +4,5 @@ build/
 .config
 .token
 .DS_Store
+package_mac_app.sh
+*.app
